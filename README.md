@@ -31,7 +31,12 @@ WeatherRack Wind Vane, Wind Speed Rain Bucket <BR>
 
 More devices will be added.
 
-See complete documentation and downloads on the shop.switchdoc.com (as of August 10, 2018)
+See complete documentation and downloads on the shop.switchdoc.com:
+
+
+Assembly and Operations Manual:<BR>
+
+http://www.switchdoc.com/wp-content/uploads/2018/08/BC24WeatherAssemblyOperationl1.0.pdf 
 
 Full REST Interface supported:<BR>
 http://www.switchdoc.com/wp-content/uploads/2018/07/BC24AdvancedProgtrammingManual1.0.pdf
